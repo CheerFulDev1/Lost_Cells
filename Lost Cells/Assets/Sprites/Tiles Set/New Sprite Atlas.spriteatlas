@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 92e3fcae8f68549ddb25f8ed8d60e06c, type: 3}
+    - {fileID: 2800000, guid: 538fad6b28bbc4acab8c80ade509e8ba, type: 3}
+    - {fileID: 2800000, guid: da3a30d6023f149d99ceb385c249f1d8, type: 3}
+    - {fileID: 2800000, guid: 54608b268871d4bbe9a1f3806b316595, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -9097368592795021158, guid: 54608b268871d4bbe9a1f3806b316595, type: 3}
+  - {fileID: -3888462938431449819, guid: 54608b268871d4bbe9a1f3806b316595, type: 3}
+  - {fileID: -6212009124277317907, guid: 54608b268871d4bbe9a1f3806b316595, type: 3}
+  - {fileID: -3628242406324776937, guid: 54608b268871d4bbe9a1f3806b316595, type: 3}
+  - {fileID: 8270632741905377772, guid: 54608b268871d4bbe9a1f3806b316595, type: 3}
+  - {fileID: -1611286992362578051, guid: 54608b268871d4bbe9a1f3806b316595, type: 3}
+  - {fileID: 9188310118664519841, guid: da3a30d6023f149d99ceb385c249f1d8, type: 3}
+  - {fileID: 4082317285512489764, guid: da3a30d6023f149d99ceb385c249f1d8, type: 3}
+  - {fileID: -5796149207342833420, guid: da3a30d6023f149d99ceb385c249f1d8, type: 3}
+  - {fileID: 7603693395651949962, guid: da3a30d6023f149d99ceb385c249f1d8, type: 3}
+  - {fileID: 6681625311119288105, guid: da3a30d6023f149d99ceb385c249f1d8, type: 3}
+  - {fileID: 8246780506861116202, guid: da3a30d6023f149d99ceb385c249f1d8, type: 3}
+  - {fileID: -2815058232127847375, guid: da3a30d6023f149d99ceb385c249f1d8, type: 3}
+  - {fileID: -3850498496783342169, guid: da3a30d6023f149d99ceb385c249f1d8, type: 3}
+  - {fileID: -7145165482616482779, guid: 538fad6b28bbc4acab8c80ade509e8ba, type: 3}
+  - {fileID: 3009819515948863637, guid: 538fad6b28bbc4acab8c80ade509e8ba, type: 3}
+  - {fileID: -4377931351286070416, guid: 538fad6b28bbc4acab8c80ade509e8ba, type: 3}
+  - {fileID: -536658833615565216, guid: 538fad6b28bbc4acab8c80ade509e8ba, type: 3}
+  - {fileID: 8134378682559311787, guid: 538fad6b28bbc4acab8c80ade509e8ba, type: 3}
+  - {fileID: -1837295302260664359, guid: 538fad6b28bbc4acab8c80ade509e8ba, type: 3}
+  - {fileID: 1681929111828507478, guid: 92e3fcae8f68549ddb25f8ed8d60e06c, type: 3}
+  - {fileID: 2783142809596139138, guid: 92e3fcae8f68549ddb25f8ed8d60e06c, type: 3}
+  - {fileID: -4334837103898169143, guid: 92e3fcae8f68549ddb25f8ed8d60e06c, type: 3}
+  - {fileID: 4214084196993049683, guid: 92e3fcae8f68549ddb25f8ed8d60e06c, type: 3}
+  - {fileID: -3168998196560688359, guid: 92e3fcae8f68549ddb25f8ed8d60e06c, type: 3}
+  - {fileID: 6870678782579034174, guid: 92e3fcae8f68549ddb25f8ed8d60e06c, type: 3}
+  - {fileID: -9081042328848325458, guid: 92e3fcae8f68549ddb25f8ed8d60e06c, type: 3}
+  - {fileID: -6826930365338644473, guid: 92e3fcae8f68549ddb25f8ed8d60e06c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tiles_Set_01-02_3
+  - Tiles_Set_01-02_2
+  - Tiles_Set_01-02_1
+  - Tiles_Set_01-02_0
+  - Tiles_Set_01-02_5
+  - Tiles_Set_01-02_4
+  - Tile_Set_04-04-05_7
+  - Tile_Set_04-04-05_6
+  - Tile_Set_04-04-05_5
+  - Tile_Set_04-04-05_4
+  - Tile_Set_04-04-05_3
+  - Tile_Set_04-04-05_2
+  - Tile_Set_04-04-05_1
+  - Tile_Set_04-04-05_0
+  - Tile_Set_03-04_2
+  - Tile_Set_03-04_3
+  - Tile_Set_03-04_0
+  - Tile_Set_03-04_1
+  - Tile_Set_03-04_4
+  - Tile_Set_03-04_5
+  - Tile_Set_02-03-03_6
+  - Tile_Set_02-03-03_7
+  - Tile_Set_02-03-03_4
+  - Tile_Set_02-03-03_5
+  - Tile_Set_02-03-03_2
+  - Tile_Set_02-03-03_3
+  - Tile_Set_02-03-03_0
+  - Tile_Set_02-03-03_1
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
