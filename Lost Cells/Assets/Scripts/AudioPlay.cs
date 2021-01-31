@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class AudioPlay : MonoBehaviour
 {
+
+
     private AudioSource _audioSource;
+    public AudioClip playButton;
     private void Awake()
     {
         DontDestroyOnLoad(transform.gameObject);
@@ -20,5 +23,10 @@ public class AudioPlay : MonoBehaviour
     public void StopMusic()
     {
         _audioSource.Stop();
+    }
+
+    public void PlayButton()
+    {
+        _audioSource.PlayOneShot(playButton);
     }
 }

@@ -284,6 +284,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1955243800}
+        m_MethodName: PlayButton
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &708483343
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -498,6 +509,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19f1cef8bb3604377b2c45dd6fb15184, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playButton: {fileID: 8300000, guid: 0e0944623968e405192e4fff7015f7fa, type: 3}
 --- !u!82 &1955243801
 AudioSource:
   m_ObjectHideFlags: 0
@@ -510,7 +522,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 8538e142718b0437689042909759430a, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.6
   m_Pitch: 1
   Loop: 1
   Mute: 0
